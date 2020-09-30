@@ -37,7 +37,7 @@ public class SumNumbersFromTextFile {
 			
 			e.printStackTrace();
 		}
-		
+		System.out.println("***************************");
 	}
 
 }
